@@ -7,7 +7,8 @@ Cicoin (CICX) is a highly secure, decentralized, distributed and time-tested glo
 
 For more information, as well as an immediately useable, binary version of the Cicoin Core software, see https://taobot.org
 
-Cicoin FAQ
+Cicoin Overview
+
 Launch Date: March 7th, 2019
 
 Blockchain Type: Public, Decentralized, UTXO based, X11-Algorithm
@@ -15,6 +16,37 @@ Blockchain Type: Public, Decentralized, UTXO based, X11-Algorithm
 Ticker Symbol: CICX
 
 Genesis Block Hash: "Detik 26/Aug/2019 Gegara Ditipu Bitcoin, Pria Ini Balas Curi Rp 160 Juta dan Aniaya Korban"
+
+Community Block Hash (71008) : <tt>a946c0334e33cb70c5f0c4dbabb791a7d50c06031b8ade954b23caa59b19fa0e</tt>
+
+<tt>
+Ya Lal Wathan diciptakan oleh KH. Abdul Wahab Chasbullah pada tahun 1916 saat mendirikan organisasi gerakan bernama Syubanul Wathan dan diijazahkan oleh (alm) KH. Maemon Zubair Tahun pada tahun 2012.
+ 
+ياَ لَلْوَطَنْ ياَ لَلْوَطَن ياَ لَلْوَطَنْ
+Ya Lal Wathon Ya Lal Wathon Ya Lal Wathon
+ 
+حُبُّ الْوَطَنْ مِنَ اْلإِيمَانْ
+Hubbul Wathon minal Iman
+ 
+وَلاَتَكُنْ مِنَ الْحِرْماَنْ
+Wala Takum minal Hirman
+ 
+اِنْهَضوُا أَهْلَ الْوَطَنْ
+Inhadlu Alal Wathon
+ 
+اِندُونيْسِياَ بِلاَدى
+Indonesia Biladi
+ 
+أَنْتَ عُنْواَنُ الْفَخَاماَ
+Anta ‘Unwanul Fakhoma
+ 
+ 
+كُلُّ مَنْ يَأْتِيْكَ يَوْماَ
+Kullu May Ya’tika Yauma
+ 
+طَامِحاً يَلْقَ حِماَمًا
+Thomihay Yalqo Himama
+</tt>
 
 Max Total Supply: ~18 Million Cicoins
 
